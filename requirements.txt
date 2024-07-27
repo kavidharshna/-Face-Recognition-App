@@ -1,0 +1,4 @@
+Flask==2.0.3
+face_recognition==1.3.0
+opencv-python-headless==4.5.5.64
+werkzeug==2.0.3
